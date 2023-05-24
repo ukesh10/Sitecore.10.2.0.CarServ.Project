@@ -1,0 +1,27 @@
+﻿---
+ID: "14b38832-b6b4-4cdf-bd78-25726e94e787"
+Parent: "58bd33fc-c4fa-43de-8d39-c7c048779ab2"
+Template: "58bd33fc-c4fa-43de-8d39-c7c048779ab2"
+Path: /sitecore/templates/Car/Data Template/Start Service Data/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0041570d-d45b-45c2-853a-3c4c827279fa"
+      Hint: Header 1
+      Value: $name
+    - ID: "0c07d676-8eb5-4e81-bb29-4365298e00b5"
+      Hint: Header 2
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T052112Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "e64ee43a-08e4-4544-9f22-3077590cb648"
+      Hint: Header 3
+      Value: $name

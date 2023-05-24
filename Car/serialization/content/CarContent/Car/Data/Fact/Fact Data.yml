@@ -1,0 +1,42 @@
+﻿---
+ID: "ffc74b5a-13f2-4310-94ed-6aa77276aaf8"
+Parent: "24bf9881-001f-491c-a3ac-090277548b68"
+Template: "977781e5-bd0c-479d-8783-88e79d2ef81c"
+Path: /sitecore/content/Car/Data/Fact/Fact Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "10d1c785-6233-41c9-ae3a-5b134a775460"
+      Hint: Header 4
+      Value: Complete Projects
+    - ID: "1afadfe5-4d7f-4752-b678-b39c9a2e3e63"
+      Hint: Number 4
+      Value: 1234
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T172650Z
+    - ID: "53bc95fe-ba37-4317-99ff-09b646997fda"
+      Hint: Number 1
+      Value: 1234
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "64c51ec6-2d5d-4d82-95d5-5d96e53c6b38"
+      Hint: Header 1
+      Value: Years Experience
+    - ID: "763cbb99-e2f3-49c3-b4ab-2d215e873dc1"
+      Hint: Header 3
+      Value: Satisfied Clients
+    - ID: "9b49ff27-3772-4f24-9aee-6180824dd4db"
+      Hint: Number 2
+      Value: 1234
+    - ID: "c85346f9-7a15-4631-a98e-18fe616483d5"
+      Hint: Number 3
+      Value: 1234
+    - ID: "d19896fa-ccc8-4f88-b771-e9156c4b27dc"
+      Hint: Header 2
+      Value: Expert Technicians

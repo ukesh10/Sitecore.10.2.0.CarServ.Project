@@ -1,0 +1,44 @@
+﻿---
+ID: "b3f8170b-c689-46fd-939e-efbb846cfba6"
+Parent: "c28352ee-56f0-4c75-9448-7b4f9c38ed75"
+Template: "81cd856a-2be5-4911-b817-0ebd785f7f78"
+Path: "/sitecore/content/Car/Data/Book-Service/Book-Service Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0f005fd3-0418-4600-bd37-d3bb5cb5b9d6"
+      Hint: Primary Link
+      Value: |
+        <link text="BOOK NOW" anchor="" linktype="internal" class="" title="BOOK NOW"  querystring="" id="{738DF3FE-1A1B-4E0E-BBF0-46E72817E6E7}" />
+    - ID: "1b29ef60-2c85-4d7e-909f-c3547d4851d6"
+      Hint: Option 2
+      Value: Service 2
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T100054Z
+    - ID: "32098635-1a11-4861-9d46-41e4b58ebb38"
+      Hint: Table Header
+      Value: Book For A Service
+    - ID: "392cd48d-2434-4325-84de-726973ff89b8"
+      Hint: Option 3
+      Value: Service 3
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6dcb05a8-95c2-424d-9d65-158cfc0ce40e"
+      Hint: Service Option
+      Value: Select A Service
+    - ID: "88b8eb62-f53d-406c-9372-558744bb8432"
+      Hint: Header
+      Value: Certified and Award Winning Car Repair Service Provider
+    - ID: "bfacc110-0e76-4dee-be36-57ce544c33a9"
+      Hint: Summary
+      Value: |
+        <p class="text-white mb-0">Eirmod sed tempor lorem ut dolores. Aliquyam sit sadipscing kasd ipsum. Dolor ea et dolore et at sea ea at dolor, justo ipsum duo rebum sea invidunt voluptua. Eos vero eos vero ea et dolore eirmod et. Dolores diam duo invidunt lorem. Elitr ut dolores magna sit. Sea dolore sanctus sed et. Takimata takimata sanctus sed.</p>
+    - ID: "fb0a51c6-4d55-4621-9da0-28c06c368a70"
+      Hint: Option 1
+      Value: Service 1

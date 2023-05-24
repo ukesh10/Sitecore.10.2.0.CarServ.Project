@@ -1,0 +1,17 @@
+﻿---
+ID: "c8e5960b-2c63-4fe9-89ac-494f56c8f24a"
+Parent: "738df3fe-1a1b-4e0e-bbf0-46e72817e6e7"
+Template: "6cebca01-2c96-48b2-95de-f2a550bd7dfb"
+Path: /sitecore/content/Car/Home/Contact
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T111902Z
+    - ID: "a5df7da9-2233-46ed-9a24-a02d56aba124"
+      Hint: Navigation Title
+      Value: Contact

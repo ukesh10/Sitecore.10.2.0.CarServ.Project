@@ -1,0 +1,27 @@
+﻿---
+ID: "dc3d5d48-7558-4904-9873-c69fee090266"
+Parent: "9ace2868-c1fc-482b-8db1-3f8f2f0ee750"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Car/Data Template/Book Taxonomy
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Software/32x32/branch_element.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {69CD8AE6-12C5-4438-8F2F-3CA09FD09779}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{D9F681FE-5CC2-4FF9-87E0-5012B3B387A7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T052841Z

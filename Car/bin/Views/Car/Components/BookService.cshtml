@@ -1,0 +1,59 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@model RenderingModel
+
+
+@if (Model != null && Model.Item != null)
+{
+    <!-- Booking Start -->
+    <div class="container-fluid bg-secondary booking my-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row gx-5">
+                <div class="col-lg-6 py-5">
+                    <div class="py-5">
+                        <h1 class="text-white mb-4">@Html.Sitecore().Field("Header", Model.Item)</h1>
+                        @Html.Sitecore().Field("Summary", Model.Item)                        
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="bg-primary h-100 d-flex flex-column justify-content-center text-center p-5 wow zoomIn" data-wow-delay="0.6s">
+                        <h1 class="text-white mb-4">@Html.Sitecore().Field("Table Header", Model.Item)</h1>
+                        <form>
+                            <div class="row g-3">
+                                <div class="col-12 col-sm-6">
+                                    <input type="text" class="form-control border-0" placeholder="Your Name" style="height: 55px;">
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <input type="email" class="form-control border-0" placeholder="Your Email" style="height: 55px;">
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <select class="form-select border-0" style="height: 55px;">
+                                        <option selected>@Html.Sitecore().Field("Service Option", Model.Item)</option>
+                                        <option value="1">@Html.Sitecore().Field("Option 1", Model.Item)</option>
+                                        <option value="2">@Html.Sitecore().Field("Option 2", Model.Item)</option>
+                                        <option value="3">@Html.Sitecore().Field("Option 3", Model.Item)</option>
+                                    </select>
+                                </div>
+                                <div class="col-12 col-sm-6">
+                                    <div class="date" id="date1" data-target-input="nearest">
+                                        <input type="text"
+                                               class="form-control border-0 datetimepicker-input"
+                                               placeholder="Service Date" data-target="#date1" data-toggle="datetimepicker" style="height: 55px;">
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <textarea class="form-control border-0" placeholder="Special Request"></textarea>
+                                </div>
+                                <div class="col-12">
+                                    @*<button class="btn btn-secondary w-100 py-3" type="submit">Book Now</button>*@
+                                    @Html.Sitecore().Field("Primary Link", Model.Item, new { @class = "btn btn-secondary w-100 py-3" })
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Booking End -->
+}

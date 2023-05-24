@@ -1,0 +1,41 @@
+﻿---
+ID: "cd4e1bc0-6ce8-4686-a062-d286743fbbbb"
+Parent: "61042723-e614-438e-a58b-03d09a27d6fe"
+Template: "7b7f95c5-be4e-41b5-b4d8-1b56699c36b6"
+Path: /sitecore/content/Car/Data/Services/Services Item 3
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230523T104350Z
+    - ID: "38acada2-b31e-4437-861e-0b04260bd191"
+      Hint: Exp
+      Value: 15 Years Of Experience In Auto Servicing
+    - ID: "427ecb0a-373d-4399-bedd-6c3070afc4f5"
+      Hint: List Item 2
+      Value: Quality Servicing
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b8b48f0d-6917-4760-bb17-2f9a0c40ea53"
+      Hint: List Item 3
+      Value: Quality Servicing
+    - ID: "b9490f71-84e0-4175-96b6-a541cc893702"
+      Hint: Image
+      Value: |
+        <image mediaid="{3A1D8CCE-6DBB-42DD-A519-37CA9ACB3A18}" />
+    - ID: "cb56913b-36ec-442d-adf4-8d242310c4f6"
+      Hint: List Item 1
+      Value: Quality Servicing
+    - ID: "d9d81cf9-25fc-4965-9e32-9d85c4ef8360"
+      Hint: Description
+      Value: Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
+    - ID: "dea5369f-2d10-4bf6-bcf0-35cdcaf73abd"
+      Hint: Primary Link
+      Value: |
+        <link text="READ MORE" anchor="" linktype="internal" class="" title=""  querystring="" id="{738DF3FE-1A1B-4E0E-BBF0-46E72817E6E7}" />

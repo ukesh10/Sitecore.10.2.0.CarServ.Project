@@ -1,0 +1,49 @@
+﻿---
+ID: "ad480a13-f461-4b43-90da-67aa04cea806"
+Parent: "8a6449bb-900b-49bb-9246-9f8dd0a881c4"
+Template: "440142d0-16f0-4609-9a55-36202a68f93f"
+Path: /sitecore/content/Car/Data/About/About all
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1bb9831d-111d-4fb2-9d46-9e4b50176f3e"
+      Hint: Summary
+      Value: |
+        <span style="background-color: #ffffff; color: #596277;">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</span>
+    - ID: "23727184-2991-4ab7-8c4c-f8d2a8e6514a"
+      Hint: Header 1
+      Value: CarServ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T120329Z
+    - ID: "3094272a-1fb6-405b-9250-a7bb444b33b5"
+      Hint: Primary Link
+      Value: |
+        <link text="READ MORE" anchor="" linktype="internal" class="" title=""  querystring="" id="{738DF3FE-1A1B-4E0E-BBF0-46E72817E6E7}" />
+    - ID: "4537badd-7f0e-4863-9d4c-d904f1b4095a"
+      Hint: Header 2
+      Value: Is The Best Place For Your Auto Care
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "671b4759-3169-4ebd-a947-0f4df9a36581"
+      Hint: Title
+      Value: ABOUT US
+    - ID: "cb85ded9-24f6-4e29-ae0f-d72f01bbc2d3"
+      Hint: Roles
+      Type: Treelist
+      Value: |
+        {742CE596-C5A2-4D39-B065-D91E23BFE31C}
+        {334E5486-C80F-4307-8ED6-2D3DA278F70E}
+        {8B79FFBF-5539-4CED-A7B5-6288A0002F1D}
+    - ID: "d9e33154-a9d1-4185-9a47-455f9a5543ea"
+      Hint: Image
+      Value: |
+        <image mediaid="{1FB2FD89-3C3D-4A15-BCAC-349A03DBE2F6}" />
+    - ID: "fd1ed8f2-a1b3-4e7d-99ee-086a0b19d6bc"
+      Hint: No of Exp
+      Value: 15

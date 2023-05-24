@@ -1,0 +1,31 @@
+﻿---
+ID: "f755fa7b-dfa3-47a7-b6b1-8606bf27dab3"
+Parent: "170d1413-6f61-4e05-98e5-d686d96a3509"
+Template: "f26a3bff-4bd1-4825-a4d4-96b5e93da84e"
+Path: /sitecore/content/Car/Data/Testimonial/Testimonial Data 2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T104530Z
+    - ID: "348170f6-cb3a-4553-8479-9a2bf4e5808c"
+      Hint: Name
+      Value: Chaithanya
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "675de524-60ab-44e1-b4bb-f3d07bc1a6b4"
+      Hint: Role
+      Value: Student
+    - ID: "ce833e4d-3684-4ee0-bd28-ccda539469da"
+      Hint: Description
+      Value: Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.
+    - ID: "f0aa906d-ee1f-4aa6-988b-3ab0791cac2a"
+      Hint: Image
+      Value: |
+        <image mediaid="{6D99E52F-E3C1-4B6D-88EA-8DA36640F527}" />

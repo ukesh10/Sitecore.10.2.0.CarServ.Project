@@ -1,0 +1,32 @@
+﻿---
+ID: "b098ac9e-871b-4733-afc1-7ce11a867a0d"
+Parent: "61042723-e614-438e-a58b-03d09a27d6fe"
+Template: "51bd0656-ab1b-4a43-b161-5fc91e62e80f"
+Path: /sitecore/content/Car/Data/Services/Services all
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230523T104335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68bd344d-66b3-4d81-8441-525e68e95071"
+      Hint: Services
+      Type: Treelist
+      Value: |
+        {B94CAB0B-8A14-49FA-ABBB-916DBB4B9F69}
+        {1352717B-1ABF-4815-A60E-56EDD9F8C583}
+        {CD4E1BC0-6CE8-4686-A062-D286743FBBBB}
+        {3FF32051-3628-4288-B42B-C4B2B672F13B}
+    - ID: "6d83a3e0-dae1-491b-af87-fcfbbdd744f3"
+      Hint: Header
+      Value: Explore Our Services
+    - ID: "87ad26d6-33f6-49c9-90f1-3a382cf48177"
+      Hint: Title
+      Value: OUR SERVICES

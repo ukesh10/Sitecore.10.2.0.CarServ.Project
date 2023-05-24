@@ -1,0 +1,17 @@
+﻿---
+ID: "01bd012d-2e0b-459c-8e38-207862299d05"
+Parent: "7e6cdd26-9516-46f2-b387-5a9c94aec604"
+Template: "6cebca01-2c96-48b2-95de-f2a550bd7dfb"
+Path: /sitecore/content/Car/Home/Pages/Technicians
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T111902Z
+    - ID: "a5df7da9-2233-46ed-9a24-a02d56aba124"
+      Hint: Navigation Title
+      Value: Technicians

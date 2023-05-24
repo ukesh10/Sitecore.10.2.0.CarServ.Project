@@ -1,0 +1,32 @@
+﻿---
+ID: "07018245-166b-4f50-8674-a8d3c723f6eb"
+Parent: "170d1413-6f61-4e05-98e5-d686d96a3509"
+Template: "3b2b88d6-3033-4c57-b460-e8cb2b4c31ef"
+Path: /sitecore/content/Car/Data/Testimonial/Testimonial all
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T104522Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "a645014f-7795-488f-a091-fdb0d32b122f"
+      Hint: Title
+      Value: TESTIMONIAL
+    - ID: "c3633515-6347-4abd-bdda-1b68e545b282"
+      Hint: Slides
+      Type: Treelist
+      Value: |
+        {FC4E0694-39F8-4197-9179-392C543A2A2A}
+        {F755FA7B-DFA3-47A7-B6B1-8606BF27DAB3}
+        {7F32E2DB-D5FF-450F-81CF-545A9A05B38C}
+        {565E8DA9-EFD2-4FCB-B800-B71D37248084}
+    - ID: "ddfd1461-4696-4002-bbc3-4d6f440eea86"
+      Hint: Header
+      Value: "Our Clients Say!"

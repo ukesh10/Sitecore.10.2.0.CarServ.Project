@@ -1,0 +1,33 @@
+﻿---
+ID: "82029253-e0ac-414d-a494-194d9f98be30"
+Parent: "738df3fe-1a1b-4e0e-bbf0-46e72817e6e7"
+Template: "6cebca01-2c96-48b2-95de-f2a550bd7dfb"
+Path: /sitecore/content/Car/Home/Book Search
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{9CCF0F51-0B03-437E-B9CF-EB38FA6E6F5E}"
+          p:after="*[1=2]"
+          s:id="{AFECC1E0-B306-44A3-846E-0DFF02EFF753}"
+          s:ph="nav" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T131511Z
+    - ID: "a5df7da9-2233-46ed-9a24-a02d56aba124"
+      Hint: Navigation Title
+      Value: Book Search

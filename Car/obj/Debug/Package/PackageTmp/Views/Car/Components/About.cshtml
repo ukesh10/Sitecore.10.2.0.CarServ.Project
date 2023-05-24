@@ -1,0 +1,52 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@model Sitecore.Data.Items.Item[]
+
+
+@if (Model != null)
+{
+    <!-- About Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-6 pt-4" style="min-height: 400px;">
+                    <div class="position-relative h-100 wow fadeIn" data-wow-delay="0.1s">
+                        @*<img class="position-absolute img-fluid w-100 h-100" src="img/about.jpg" style="object-fit: cover;" alt="">*@
+                        @Html.Sitecore().Field("Image", new { @class = "position-absolute img-fluid w-100 h-100", @style = "object-fit: cover;" })
+                        <div class="position-absolute top-0 end-0 mt-n4 me-n4 py-4 px-5" style="background: rgba(0, 0, 0, .08);">
+                            <h1 class="display-4 text-white mb-0">@Html.Sitecore().Field("No of Exp", Model) <span class="fs-4">Years</span></h1>
+                            <h4 class="text-white">Experience</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <h6 class="text-primary text-uppercase">@Html.Sitecore().Field("Title", Model)</h6>
+                    <h1 class="mb-4"><span class="text-primary">@Html.Sitecore().Field("Header 1", Model)</span> @Html.Sitecore().Field("Header 2", Model)</h1>
+                    <p class="mb-4">@Html.Sitecore().Field("Summary", Model)</p>
+
+                    <div class="row g-4 mb-3 pb-3">
+
+                        @foreach (var item in Model)
+                        {
+                            <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
+                                <div class="d-flex">
+                                    <div class="bg-light d-flex flex-shrink-0 align-items-center justify-content-center mt-1" style="width: 45px; height: 45px;">
+                                        <span class="fw-bold text-secondary">@Html.Sitecore().Field("SN",item)</span>
+                                    </div>
+                                    <div class="ps-3">
+                                        <h6>@Html.Sitecore().Field("Role", item)</h6>
+                                        <span>@Html.Sitecore().Field("Description", item)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                    @*<a href="" class="btn btn-primary py-3 px-5">Read More<i class="fa fa-arrow-right ms-3"></i></a>*@
+                    @Html.Sitecore().Field("Primary Link" , new{ @class = "btn btn-primary py-3 px-5" })
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+}

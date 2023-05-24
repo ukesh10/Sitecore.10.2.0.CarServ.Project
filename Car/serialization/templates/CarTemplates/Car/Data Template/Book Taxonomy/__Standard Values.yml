@@ -1,0 +1,21 @@
+﻿---
+ID: "d9f681fe-5cc2-4ff9-87e0-5012b3b387a7"
+Parent: "dc3d5d48-7558-4904-9873-c69fee090266"
+Template: "dc3d5d48-7558-4904-9873-c69fee090266"
+Path: /sitecore/templates/Car/Data Template/Book Taxonomy/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24281b02-55b2-475a-b00a-6e3278ca0f6e"
+      Hint: Title
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T052848Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

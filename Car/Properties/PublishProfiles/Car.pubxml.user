@@ -1,0 +1,724 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\xp10sc.dev.local</_PublishTargetUrl>
+    <History>True|2023-05-24T09:23:20.9140180Z;True|2023-05-24T14:49:06.7516041+05:30;True|2023-05-24T14:48:16.1862413+05:30;True|2023-05-24T14:46:01.7337696+05:30;True|2023-05-24T14:44:31.4999228+05:30;True|2023-05-24T14:43:11.6356732+05:30;True|2023-05-24T14:42:50.8992931+05:30;True|2023-05-24T14:40:37.9739900+05:30;True|2023-05-24T14:35:46.1330247+05:30;True|2023-05-24T14:18:05.4392714+05:30;False|2023-05-24T14:10:20.9555534+05:30;False|2023-05-24T13:32:17.1419449+05:30;False|2023-05-24T13:30:51.5370942+05:30;True|2023-05-24T13:26:37.4803592+05:30;True|2023-05-24T13:01:47.3380891+05:30;True|2023-05-24T12:58:10.4592976+05:30;True|2023-05-24T12:54:26.7571470+05:30;True|2023-05-24T12:54:17.1461410+05:30;True|2023-05-24T12:51:53.4788352+05:30;True|2023-05-24T12:48:29.4418128+05:30;True|2023-05-24T12:44:20.7874371+05:30;True|2023-05-24T12:42:20.8173962+05:30;True|2023-05-24T12:39:38.1965880+05:30;True|2023-05-23T21:49:33.7891083+05:30;True|2023-05-23T21:42:40.0582790+05:30;True|2023-05-23T21:28:27.5415570+05:30;True|2023-05-23T21:22:50.9561165+05:30;True|2023-05-23T21:18:47.1127507+05:30;True|2023-05-23T21:15:33.4497674+05:30;True|2023-05-23T20:58:17.0494843+05:30;True|2023-05-23T18:01:31.2232693+05:30;True|2023-05-23T17:45:09.9466542+05:30;True|2023-05-23T17:43:37.1889132+05:30;True|2023-05-23T17:35:44.8706712+05:30;True|2023-05-23T16:32:37.1575387+05:30;True|2023-05-23T16:28:39.5323567+05:30;True|2023-05-23T15:56:46.5289222+05:30;False|2023-05-23T15:51:01.6449963+05:30;False|2023-05-23T15:50:32.0336838+05:30;False|2023-05-23T15:49:57.6536192+05:30;True|2023-05-22T16:06:59.4657029+05:30;True|2023-05-22T12:14:33.2024252+05:30;True|2023-05-22T12:13:47.9689791+05:30;True|2023-05-22T12:10:37.2163383+05:30;True|2023-05-22T10:43:35.8908361+05:30;True|2023-05-18T18:42:24.1559719+05:30;True|2023-05-18T17:07:02.7204105+05:30;True|2023-05-18T17:04:19.6950746+05:30;True|2023-05-18T16:53:11.7539826+05:30;True|2023-05-18T16:43:08.4314595+05:30;True|2023-05-18T14:28:17.7183202+05:30;True|2023-05-18T14:27:06.7834441+05:30;True|2023-05-18T14:25:16.0833619+05:30;True|2023-05-18T14:24:05.2109423+05:30;True|2023-05-18T14:22:03.1324493+05:30;True|2023-05-17T23:48:00.7178400+05:30;True|2023-05-17T23:17:10.1786331+05:30;True|2023-05-17T22:50:30.1227082+05:30;True|2023-05-17T21:26:16.6233264+05:30;True|2023-05-17T17:44:01.9170524+05:30;True|2023-05-17T17:42:38.7738408+05:30;True|2023-05-17T17:24:29.6592425+05:30;True|2023-05-17T15:22:40.7442927+05:30;True|2023-05-17T15:19:32.9458578+05:30;True|2023-05-17T15:05:39.3389800+05:30;True|2023-05-17T14:44:41.5468465+05:30;True|2023-05-17T14:43:01.4255764+05:30;True|2023-05-17T14:41:54.5474189+05:30;True|2023-05-17T14:27:18.1477806+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Config/include/custom/Car.CustomItemResolver.config">
+      <publishTime>05/18/2023 18:04:58</publishTime>
+    </File>
+    <File Include="App_Config/include/custom/Car.CustomLinkProvider.config">
+      <publishTime>05/18/2023 18:05:50</publishTime>
+    </File>
+    <File Include="App_Config/include/custom/Car.SiteDefinition.config">
+      <publishTime>05/17/2023 14:16:52</publishTime>
+    </File>
+    <File Include="App_Config/include/Rainbow.config">
+      <publishTime>05/24/2023 14:25:44</publishTime>
+    </File>
+    <File Include="App_Config/include/Unicorn/Unicorn.AutoPublish.config">
+      <publishTime>05/24/2023 14:25:47</publishTime>
+    </File>
+    <File Include="App_Config/include/Unicorn/Unicorn.config">
+      <publishTime>05/24/2023 14:25:46</publishTime>
+    </File>
+    <File Include="App_Config/include/Unicorn/Unicorn.Configs.Default">
+      <publishTime>05/24/2023 12:19:24</publishTime>
+    </File>
+    <File Include="App_Config/include/Unicorn/Unicorn.Configs.Default.example">
+      <publishTime>05/24/2023 14:32:18</publishTime>
+    </File>
+    <File Include="App_Config/include/Unicorn/Unicorn.Configs.Dependency.config.example">
+      <publishTime>05/24/2023 14:25:46</publishTime>
+    </File>
+    <File Include="App_Config/include/Unicorn/Unicorn.Configs.NewItemsOnly.example">
+      <publishTime>05/24/2023 14:25:46</publishTime>
+    </File>
+    <File Include="App_Config/include/Unicorn/Unicorn.CustomSerializationFolder.config.example">
+      <publishTime>05/24/2023 14:25:46</publishTime>
+    </File>
+    <File Include="App_Config/include/Unicorn/Unicorn.DataProvider.10.1.config">
+      <publishTime>05/24/2023 14:25:46</publishTime>
+    </File>
+    <File Include="App_Config/include/Unicorn/Unicorn.PowerShell.config">
+      <publishTime>05/24/2023 14:25:45</publishTime>
+    </File>
+    <File Include="App_Config/include/Unicorn/Unicorn.Remote.config.disabled">
+      <publishTime>05/24/2023 12:19:23</publishTime>
+    </File>
+    <File Include="App_Config/include/Unicorn/Unicorn.UI.config">
+      <publishTime>05/24/2023 14:25:45</publishTime>
+    </File>
+    <File Include="App_Config/include/Unicorn/Unicorn.UI.DeployedContentEditorWarnings.config.disabled">
+      <publishTime>05/24/2023 12:19:22</publishTime>
+    </File>
+    <File Include="App_Config/include/Unicorn/Unicorn.UI.IdentityServer.config">
+      <publishTime>05/24/2023 14:25:45</publishTime>
+    </File>
+    <File Include="App_Config/include/zzzCar/Car.Unicorn.PhysicalStore.config">
+      <publishTime>05/24/2023 14:49:05</publishTime>
+    </File>
+    <File Include="App_Config/include/zzzCar/Car.Unicorn.Serialization.config">
+      <publishTime>05/24/2023 14:49:03</publishTime>
+    </File>
+    <File Include="App_Config/include/zzzzU/Car.Unicorn.PhysicalStore.config">
+      <publishTime>05/24/2023 13:01:40</publishTime>
+    </File>
+    <File Include="App_Config/include/zzzzU/Car.Unicorn.Serialization.config">
+      <publishTime>05/24/2023 12:58:09</publishTime>
+    </File>
+    <File Include="App_Config/include/zzzzzzzzzzzzzUnicorn/Car.Unicorn.PhysicalStore.config">
+      <publishTime>05/24/2023 13:01:40</publishTime>
+    </File>
+    <File Include="App_Config/include/zzzzzzzzzzzzzUnicorn/Car.Unicorn.Serialization.config">
+      <publishTime>05/24/2023 12:58:09</publishTime>
+    </File>
+    <File Include="bin/Car.dll">
+      <publishTime>05/24/2023 14:35:40</publishTime>
+    </File>
+    <File Include="bin/Car.pdb">
+      <publishTime>05/24/2023 14:35:40</publishTime>
+    </File>
+    <File Include="bin/Configy.dll">
+      <publishTime>06/08/2017 03:16:50</publishTime>
+    </File>
+    <File Include="bin/Kamsar.WebConsole.dll">
+      <publishTime>04/01/2018 02:40:56</publishTime>
+    </File>
+    <File Include="bin/MicroCHAP.dll">
+      <publishTime>10/11/2016 18:21:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 17:18:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/17/2021 20:03:36</publishTime>
+    </File>
+    <File Include="bin/Rainbow.dll">
+      <publishTime>06/14/2021 21:16:38</publishTime>
+    </File>
+    <File Include="bin/Rainbow.Storage.Sc.dll">
+      <publishTime>06/14/2021 21:16:38</publishTime>
+    </File>
+    <File Include="bin/Rainbow.Storage.Yaml.dll">
+      <publishTime>06/14/2021 21:16:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/08/2018 12:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/08/2018 12:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/08/2018 12:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/05/2016 18:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>11/05/2016 18:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 03:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>11/05/2016 18:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/05/2016 18:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>11/05/2016 18:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/05/2016 18:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>11/05/2016 18:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>11/05/2016 18:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 03:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/05/2016 18:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 18:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 18:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/05/2016 18:57:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>11/05/2016 18:57:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>11/05/2016 18:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>11/05/2016 18:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>11/05/2016 18:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/08/2018 12:18:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/08/2018 12:09:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/08/2018 12:18:16</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Buckets.dll">
+      <publishTime>10/20/2021 22:54:52</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.Data.dll">
+      <publishTime>10/20/2021 22:24:14</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.dll">
+      <publishTime>10/20/2021 22:24:40</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.Linq.dll">
+      <publishTime>10/20/2021 22:24:24</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Kernel.dll">
+      <publishTime>10/20/2021 21:31:32</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Mvc.dll">
+      <publishTime>10/20/2021 23:25:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>02/01/2018 17:50:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>02/01/2018 17:46:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>02/01/2018 17:46:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>02/01/2018 17:50:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>02/01/2018 17:50:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>02/01/2018 17:50:56</publishTime>
+    </File>
+    <File Include="bin/Unicorn.dll">
+      <publishTime>10/23/2021 16:19:40</publishTime>
+    </File>
+    <File Include="bin/Views/Car/Components/BookService.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="car-assets/css/bootstrap.min.css">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/css/style.css">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/about.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/carousel-1.png">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/carousel-2.png">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/carousel-bg-1.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/carousel-bg-2.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/service-1.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/service-2.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/service-3.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/service-4.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/team-1.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/team-2.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/team-3.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/team-4.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/testimonial-1.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/testimonial-2.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/testimonial-3.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/img/testimonial-4.jpg">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/js/main.js">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/animate/animate.css">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/animate/animate.min.css">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/counterup/counterup.min.js">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/easing/easing.js">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/easing/easing.min.js">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/owlcarousel/assets/ajax-loader.gif">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/owlcarousel/assets/owl.carousel.css">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/owlcarousel/assets/owl.carousel.min.css">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/owlcarousel/assets/owl.theme.default.css">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/owlcarousel/assets/owl.theme.default.min.css">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/owlcarousel/assets/owl.theme.green.css">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/owlcarousel/assets/owl.theme.green.min.css">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/owlcarousel/assets/owl.video.play.png">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/owlcarousel/LICENSE">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/owlcarousel/owl.carousel.js">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/owlcarousel/owl.carousel.min.js">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.css">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/tempusdominus/js/moment-timezone.min.js">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/tempusdominus/js/moment.min.js">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/tempusdominus/js/tempusdominus-bootstrap-4.js">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/waypoints/links.php">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/waypoints/waypoints.min.js">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/wow/wow.js">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/lib/wow/wow.min.js">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/bootstrap-grid.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/bootstrap-reboot.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/bootstrap-utilities.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/bootstrap.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/forms/_floating-labels.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/forms/_form-check.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/forms/_form-control.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/forms/_form-range.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/forms/_form-select.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/forms/_form-text.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/forms/_input-group.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/forms/_labels.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/forms/_validation.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/helpers/_clearfix.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/helpers/_colored-links.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/helpers/_position.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/helpers/_ratio.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/helpers/_stretched-link.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/helpers/_text-truncation.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/helpers/_visually-hidden.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_alert.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_border-radius.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_box-shadow.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_breakpoints.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_buttons.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_caret.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_clearfix.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_color-scheme.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_container.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_deprecate.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_forms.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_gradients.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_grid.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_image.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_list-group.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_lists.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_pagination.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_reset-text.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_resize.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_table-variants.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_text-truncate.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_transition.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_utilities.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/mixins/_visually-hidden.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/utilities/_api.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/vendor/_rfs.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_accordion.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_alert.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_badge.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_breadcrumb.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_button-group.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_buttons.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_card.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_carousel.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_close.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_containers.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_dropdown.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_forms.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_functions.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_grid.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_helpers.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_images.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_list-group.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_mixins.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_modal.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_nav.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_navbar.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_offcanvas.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_pagination.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_popover.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_progress.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_reboot.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_root.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_spinners.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_tables.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_toasts.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_tooltip.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_transitions.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_type.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_utilities.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="car-assets/scss/bootstrap/scss/_variables.scss">
+      <publishTime>05/17/2023 14:39:35</publishTime>
+    </File>
+    <File Include="Views/Car/Components/About.cshtml">
+      <publishTime>05/17/2023 17:43:48</publishTime>
+    </File>
+    <File Include="Views/Car/Components/Booklist.cshtml">
+      <publishTime>05/18/2023 18:15:54</publishTime>
+    </File>
+    <File Include="Views/Car/Components/BookService.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Car/Components/Carousel.cshtml">
+      <publishTime>05/22/2023 12:14:27</publishTime>
+    </File>
+    <File Include="Views/Car/Components/Fact.cshtml">
+      <publishTime>05/17/2023 23:16:54</publishTime>
+    </File>
+    <File Include="Views/Car/Components/Navigation.cshtml">
+      <publishTime>05/18/2023 17:10:22</publishTime>
+    </File>
+    <File Include="Views/Car/Components/Services.cshtml">
+      <publishTime>05/23/2023 21:52:25</publishTime>
+    </File>
+    <File Include="Views/Car/Components/StartService.cshtml">
+      <publishTime>05/22/2023 10:43:22</publishTime>
+    </File>
+    <File Include="Views/Car/Components/Team.cshtml">
+      <publishTime>05/23/2023 15:49:15</publishTime>
+    </File>
+    <File Include="Views/Car/Components/TeamFieldRenderer.cshtml">
+      <publishTime>05/23/2023 15:56:10</publishTime>
+    </File>
+    <File Include="Views/Car/Components/Testimonial.cshtml">
+      <publishTime>05/22/2023 16:02:42</publishTime>
+    </File>
+    <File Include="Views/Car/Layouts/BasicLayout.cshtml">
+      <publishTime>05/18/2023 17:06:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

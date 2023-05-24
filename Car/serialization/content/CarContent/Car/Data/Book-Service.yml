@@ -1,0 +1,14 @@
+﻿---
+ID: "c28352ee-56f0-4c75-9448-7b4f9c38ed75"
+Parent: "1dccc027-2cff-4b89-983e-dc8c3e193bea"
+Template: "990c2789-e9a4-4a75-9c00-1577ff1177ac"
+Path: "/sitecore/content/Car/Data/Book-Service"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T100044Z

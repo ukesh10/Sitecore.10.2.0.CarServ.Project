@@ -1,0 +1,19 @@
+﻿---
+ID: "13774390-7f26-48a8-9991-6dc56f2b97af"
+Parent: "1dccc027-2cff-4b89-983e-dc8c3e193bea"
+Template: "b6629c44-cf1d-408b-af6a-883df51c7f9e"
+Path: /sitecore/content/Car/Data/Carousel
+DB: master
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E9B1AA56-DA6D-4FAE-ADD9-DF9A3B1E91E7}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T161139Z

@@ -1,0 +1,28 @@
+﻿---
+ID: "9eec56ff-b631-46ff-8c27-7df09828ea3f"
+Parent: "7048193c-968f-49cf-b5f4-01a81d69bd19"
+Template: "ff98fe98-8b38-4709-82b9-6a194404465a"
+Path: /sitecore/content/Car/Data/Team/Team Data 4
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040a0e7f-7ad6-4e00-a22e-93379540f8ff"
+      Hint: Designation
+      Value: Engineer
+    - ID: "0cc2d711-e4e1-47b2-a938-da3a145c8f05"
+      Hint: Name
+      Value: Chaithanya
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T182414Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d479e942-c3b9-4fc6-9778-b1f34cfb5e66"
+      Hint: Image
+      Value: |
+        <image mediaid="{52F64D01-5970-4B34-B480-55A679398C6D}" />

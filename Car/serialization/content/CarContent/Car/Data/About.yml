@@ -1,0 +1,19 @@
+﻿---
+ID: "8a6449bb-900b-49bb-9246-9f8dd0a881c4"
+Parent: "1dccc027-2cff-4b89-983e-dc8c3e193bea"
+Template: "c55dc2df-9a6d-4941-93df-d2ad4083f646"
+Path: /sitecore/content/Car/Data/About
+DB: master
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{662A5C47-7683-4B06-9C10-C0BE617994DE}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T120257Z

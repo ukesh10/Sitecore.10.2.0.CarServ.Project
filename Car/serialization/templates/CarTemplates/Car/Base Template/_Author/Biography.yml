@@ -1,0 +1,18 @@
+﻿---
+ID: "8cb3ab7f-74bf-4006-9cd1-55f56716ad88"
+Parent: "4ba58028-c7d8-438d-90ac-e6652d821a11"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Car/Base Template/_Author/Biography
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T051803Z

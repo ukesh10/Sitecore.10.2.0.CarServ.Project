@@ -1,0 +1,41 @@
+﻿---
+ID: "738df3fe-1a1b-4e0e-bbf0-46e72817e6e7"
+Parent: "55d74a90-72ca-4e27-a6ec-72883b16f462"
+Template: "9aa5467a-d82b-4c3b-b7bc-32872979cfb3"
+Path: /sitecore/content/Car/Home
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <p
+          uid="{C76D87A5-820A-47DC-9F8F-B6CA8D8D66CC}"
+          p:before="*"
+          s:key="main"
+          s:md="{703724DC-1A1A-4295-BEE7-6B57A2618022}" />
+        <p
+          uid="{D77CE7A6-B853-4645-B552-01FE8ACB5D34}"
+          p:after="p[@uid='{C76D87A5-820A-47DC-9F8F-B6CA8D8D66CC}']"
+          s:key="nav"
+          s:md="{569A8DCA-A276-4E77-B340-E6078CB6EB82}" />
+        <r
+          uid="{6FEB452C-23A0-49F5-AAC7-F8E739A9598F}"
+          s:par="No of Slides=3" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T090436Z
+    - ID: "a5df7da9-2233-46ed-9a24-a02d56aba124"
+      Hint: Navigation Title
+      Value: Home

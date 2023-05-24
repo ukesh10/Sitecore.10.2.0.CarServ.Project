@@ -1,0 +1,44 @@
+﻿---
+ID: "fbf93d7f-124f-4d5b-b981-38b07d8186c9"
+Parent: "3f314aaf-675c-46df-a87d-07caa52ecf57"
+Template: "58bd33fc-c4fa-43de-8d39-c7c048779ab2"
+Path: /sitecore/content/Car/Data/Start Service/Start Service Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0041570d-d45b-45c2-853a-3c4c827279fa"
+      Hint: Header 1
+      Value:  Quality Servicing
+    - ID: "0c07d676-8eb5-4e81-bb29-4365298e00b5"
+      Hint: Header 2
+      Value: Expert Workers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T052218Z
+    - ID: "2a37a7fc-93c7-4c3e-9198-ecda7f61e4fe"
+      Hint: Primary Link 3
+      Value: |
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{738DF3FE-1A1B-4E0E-BBF0-46E72817E6E7}" />
+    - ID: "402fe14b-46db-4cfb-8104-a00b51afe6b6"
+      Hint: Summary 2
+      Value: Diam dolor diam ipsum sit amet diam et eos erat ipsum
+    - ID: "603571e2-4c5d-45da-ba18-ab0f1d9d2109"
+      Hint: Summary 3
+      Value: Diam dolor diam ipsum sit amet diam et eos erat ipsum
+    - ID: "617bb5e2-9349-4d9f-9b53-b88342c2733d"
+      Hint: Primary Link 1
+      Value: |
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{738DF3FE-1A1B-4E0E-BBF0-46E72817E6E7}" />
+    - ID: "b0752326-d5ad-4cec-8cf3-983719a84698"
+      Hint: Primary Link 2
+      Value: |
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{738DF3FE-1A1B-4E0E-BBF0-46E72817E6E7}" />
+    - ID: "e64ee43a-08e4-4544-9f22-3077590cb648"
+      Hint: Header 3
+      Value: Modern Equipment
+    - ID: "fee83184-ca2e-4f27-b6d7-03c4175ea3c0"
+      Hint: Summary 1
+      Value: Diam dolor diam ipsum sit amet diam et eos erat ipsum

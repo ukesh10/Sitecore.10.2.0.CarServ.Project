@@ -1,0 +1,14 @@
+﻿---
+ID: "170d1413-6f61-4e05-98e5-d686d96a3509"
+Parent: "1dccc027-2cff-4b89-983e-dc8c3e193bea"
+Template: "8f5312ee-feb2-4f6c-abb4-805c8ecea8ec"
+Path: /sitecore/content/Car/Data/Testimonial
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T104504Z

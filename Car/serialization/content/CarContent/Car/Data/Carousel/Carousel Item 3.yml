@@ -1,0 +1,36 @@
+﻿---
+ID: "f2f72850-2320-4e20-be1f-0914444fa14d"
+Parent: "13774390-7f26-48a8-9991-6dc56f2b97af"
+Template: "effcaf40-d792-4c1d-aaa9-59ca71c4dc69"
+Path: /sitecore/content/Car/Data/Carousel/Carousel Item 3
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "10f8b16c-bcab-4854-99a4-d374801bb1d0"
+      Hint: Image 2
+      Value: |
+        <image mediaid="{1A0B4F2C-1A3E-45B2-887E-34DFED427DFB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T161228Z
+    - ID: "40a95e11-24c6-4c7e-b530-5767c6d8bad1"
+      Hint: Primary Link
+      Value: |
+        <link text="LEARN MORE" anchor="" linktype="internal" class="" title=""  querystring="" id="{738DF3FE-1A1B-4E0E-BBF0-46E72817E6E7}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8028af04-07f0-4e90-8e5b-9b9d2a951915"
+      Hint: Title
+      Value:  CAR SERVICING  3
+    - ID: "bc69a1d3-756d-43b3-aef2-966d6d84f238"
+      Hint: Image 1
+      Value: |
+        <image mediaid="{C9330922-EDA5-4E52-8B19-315CB4933AB0}" />
+    - ID: "be737703-2548-4f29-820f-d5489dddfbcf"
+      Hint: Header
+      Value: Qualified Car Repair Service Center

@@ -1,0 +1,32 @@
+﻿---
+ID: "f17a05df-96c5-4cd1-acef-2ab41f871a48"
+Parent: "7048193c-968f-49cf-b5f4-01a81d69bd19"
+Template: "3bd9c470-7f55-4048-96be-a355e76a3594"
+Path: /sitecore/content/Car/Data/Team/Team all
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T182405Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "73717dea-0bfb-4a0d-8dfb-a8fb896fce4e"
+      Hint: Teams
+      Type: Treelist
+      Value: |
+        {EC0E2977-F9A9-4431-8C51-D123484AA0F5}
+        {7C892227-DCF3-4215-ABAB-2EE3DEF177AC}
+        {D98F1ABC-AD11-4F9E-B6A3-3031558D18A0}
+        {9EEC56FF-B631-46FF-8C27-7DF09828EA3F}
+    - ID: "dec15860-b98c-4d09-a39a-0ae5aa99cc6c"
+      Hint: Title
+      Value: OUR TECHNICIANS
+    - ID: "ebb68f96-3ed0-4fe2-8fae-5dbb1df94c3f"
+      Hint: Header
+      Value: Our Expert Technicians

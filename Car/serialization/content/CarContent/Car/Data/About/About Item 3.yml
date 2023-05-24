@@ -1,0 +1,28 @@
+﻿---
+ID: "8b79ffbf-5539-4ced-a7b5-6288a0002f1d"
+Parent: "8a6449bb-900b-49bb-9246-9f8dd0a881c4"
+Template: "9a5b92bc-2000-4f68-bb50-e30fe8e2cb7f"
+Path: /sitecore/content/Car/Data/About/About Item 3
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230517T120336Z
+    - ID: "415a7285-0d28-4878-bd5d-c42831f5da56"
+      Hint: Description
+      Value: |
+        <span style="background-color: #ffffff; color: #596277;">Diam dolor diam ipsum sit amet diam et eos</span>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "be2f0c89-8a34-479b-8ce0-ee5b514c62d2"
+      Hint: Role
+      Value: Awards Winning Workers
+    - ID: "e14ed0ed-42b5-4c2f-9de1-918c5d130066"
+      Hint: SN
+      Value: 3

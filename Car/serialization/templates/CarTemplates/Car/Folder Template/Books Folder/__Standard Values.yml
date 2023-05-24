@@ -1,0 +1,25 @@
+﻿---
+ID: "98af7c06-e9c3-4ba9-aced-5a0c8b9ae492"
+Parent: "0247fea8-ab26-4fee-8ee0-62c193e1f31e"
+Template: "0247fea8-ab26-4fee-8ee0-62c193e1f31e"
+Path: /sitecore/templates/Car/Folder Template/Books Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {C77CBF36-E660-4C1A-AB94-85F172CA180A}
+    {0ABD47D4-BA34-48A9-85A3-E8ECEE90799E}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190511T050151Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
